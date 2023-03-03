@@ -1,0 +1,2 @@
+## For testing:
+- pytest --tb=short test_commands.py
